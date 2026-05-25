@@ -41,7 +41,7 @@ LGKDE is a learnable kernel density estimation framework for graph-structured da
 ├── evaluation.py            # AUROC, AUPR, FPR95 and auxiliary metrics
 ├──utils.py                 # Seed and visualization utilities
 ├── Benchmarks/
-└──  └── RUN-UBGOLD.sh        # Commands for running UB-GOLD benchmark baselines, Ref Please https://github.com/UB-GOLD/UB-GOLD
+└──  └── RUN-UBGOLD.sh        # Example Commands for running UB-GOLD benchmark baselines, Ref Please https://github.com/UB-GOLD/UB-GOLD
 ```
 
 ## Usage and Quick Start
@@ -79,7 +79,7 @@ Experiment outputs are saved under `base.save_dir`, with model checkpoints in `S
 
 ## Benchmark Baselines
 
-Commands for running the UB-GOLD graph-level anomaly detection benchmark baselines are provided in [Benchmarks/RUN-UBGOLD.sh](./Benchmarks/RUN-UBGOLD.sh). Please refer to the UB-GOLD repository (https://github.com/UB-GOLD/UB-GOLD) for instructions on setting up the benchmark environment and datasets.
+Example Commands for running the UB-GOLD graph-level anomaly detection benchmark baselines are provided in [Benchmarks/RUN-UBGOLD.sh](./Benchmarks/RUN-UBGOLD.sh). Please refer to the UB-GOLD repository (https://github.com/UB-GOLD/UB-GOLD) for instructions on setting up the benchmark environment and datasets.
 ## Requirements
 
 ### Hardware Requirements
