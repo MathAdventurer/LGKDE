@@ -1,4 +1,4 @@
-# [ICML 2026] Learnable Kernel Density Estimation for Graphs (LGKDE)
+# [ICML 2026] Learnable Kernel Density Estimation for Graphs (LGKDE) and Its Application to Graph-Level Anomaly Detection
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-12.1%2B-76B900?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
